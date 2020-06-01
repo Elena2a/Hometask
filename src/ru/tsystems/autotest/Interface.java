@@ -1,15 +1,11 @@
 package ru.tsystems.autotest;
 
-interface IPrinter {
-    void print(String message);
+interface Interface {
+
 
     }
 
-interface IPlayer {
 
-    void play(String doc);
-
-}
 
 
 
